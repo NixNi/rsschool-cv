@@ -31,7 +31,13 @@ function isPangram(string){
   )/26
 }
 ```
-g
+***
+## Education
+University: SUAI, Computer Science and Engineering 2021-2025(2 year) Full-time education
+***
+## Languages
+Russian - Native  
+English - Upper-Intermidiate(B2)
 
 
 
