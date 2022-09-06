@@ -60,7 +60,7 @@ function isPangram(string) {
 
 ## Education
 
-University: SUAI, Computer Science and Engineering 2021-2025(2 year) Full-time education
+University: SUAI, Computer Science and Engineering 2021-present(2 year) Full-time education
 
 ---
 
