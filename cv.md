@@ -30,7 +30,7 @@ University: SUAI, Computer Science and Engineering 2021-2025(2 year) Full-time e
   
 Courses:  
 - JavaScript/Front-end from RSschool (in progress)  
-- Full Stack Developer Course from Skillcrucial
+- Full Stack Developer Course from Skillcrucial  
 ## Languages
-Russian - Native
+Russian - Native  
 English - Upper-Intermidiate(B2)
