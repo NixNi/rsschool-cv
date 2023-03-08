@@ -24,3 +24,13 @@ function isPangram(string){
   0
   )/26
 }
+```
+## Education
+University: SUAI, Computer Science and Engineering 2021-2025(2 year) Full-time education  
+  
+Courses:  
+- JavaScript/Front-end from RSschool (in progress)  
+- Full Stack Developer Course from Skillcrucial
+## Languages
+Russian - Native
+English - Upper-Intermidiate(B2)
