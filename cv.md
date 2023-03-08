@@ -13,8 +13,8 @@ I decide to learn development because I like to create new things that will help
  - React  
  - Git, GitHub  
   
- ## Code example
-This function detecting a pangram. A pangram is a sentence that contains every single letter of the alphabet at least once.
+## Code example
+*This function detecting a pangram. A pangram is a sentence that contains every single letter of the alphabet at least once.*
 ```js
 function isPangram(string){
   return 1===string.toUpperCase().split('').reduce(
@@ -27,7 +27,7 @@ function isPangram(string){
 }
 ```
 ## Education
-University: SUAI, Computer Science and Engineering 2021-2025(2 year) Full-time education  
+University: *SUAI, Computer Science and Engineering 2021-2025(2 year) Full-time education*  
   
 Courses:  
 - JavaScript/Front-end from RSschool (in progress)  
