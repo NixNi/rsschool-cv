@@ -12,7 +12,8 @@ I decide to learn development because I like to create new things that will help
  - JavaScript, TypeScript  
  - React  
  - Git, GitHub  
-## Code example
+  
+ ## Code example
 This function detecting a pangram. A pangram is a sentence that contains every single letter of the alphabet at least once.
 ```js
 function isPangram(string){
